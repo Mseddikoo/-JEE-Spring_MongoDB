@@ -1,0 +1,23 @@
+.error {
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid crimson;
+    background-color: red;
+}
+
+.msg {
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    color: #31708f;
+    background-color: #d9edf7;
+    border: 1px solid #bce8f1;
+}
+#login-box {
+    width: 300px;
+    padding: 20px;
+    margin: 100px auto;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border: 1px solid #000;
+}
